@@ -1,4 +1,4 @@
-export const Bitcoin = require("./bitcoin.png");
+xexport const Bitcoin = require("./bitcoin.png");
 export const Dash = require("./dash-3.png");
 export const Eth = require("./eth.png");
 export const Lite = require("./litecoin.png");
