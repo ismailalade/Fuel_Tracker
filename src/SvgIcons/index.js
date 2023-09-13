@@ -1,4 +1,4 @@
-export { default as PortfolioIcon } from "./Portfolio";
+xexport { default as PortfolioIcon } from "./Portfolio";
 export { default as Pulse } from "./Pulse";
 export { default as Market } from "./Market";
 export { default as News } from "./News";
