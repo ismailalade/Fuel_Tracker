@@ -1,4 +1,4 @@
-
+x
 import { Bitcoin, Eth, Dash, Lite, Tether } from "../../../assets/images";
 
 export const coinData = [
