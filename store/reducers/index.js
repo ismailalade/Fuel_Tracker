@@ -1,4 +1,4 @@
-ximport { combineReducers } from "redux";
+import { combineReducers } from "redux";
 
 import transactionReducer from "./transactionReducer";
 

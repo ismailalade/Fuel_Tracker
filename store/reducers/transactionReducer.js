@@ -1,4 +1,4 @@
-ximport { ADD_TRANSACTION, DELETE_TRANSACTION } from "../actions/types";
+import { ADD_TRANSACTION, DELETE_TRANSACTION } from "../actions/types";
 
 const initialState = {
   transactions: [
