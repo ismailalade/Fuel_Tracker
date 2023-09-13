@@ -1,4 +1,4 @@
-ximport React from "react";
+import React from "react";
 import Animated, { eq, interpolate } from "react-native-reanimated";
 import { ICON_SIZE, SEGMENT } from "../../components/Constants";
 import { TouchableWithoutFeedback, StyleSheet } from "react-native";

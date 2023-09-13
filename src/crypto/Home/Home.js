@@ -1,4 +1,4 @@
-ximport React, { useRef } from "react";
+import React, { useRef } from "react";
 import {
   Dimensions,
   StyleSheet,
