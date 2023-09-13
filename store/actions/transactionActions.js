@@ -1,4 +1,4 @@
-ximport moment from "moment";
+import moment from "moment";
 import { ADD_TRANSACTION, DELETE_TRANSACTION } from "./types";
 
 export const addTransaction = ({ title, price, addedtime }) => (dispatch) => {
