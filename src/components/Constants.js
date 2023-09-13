@@ -1,4 +1,4 @@
-ximport { PixelRatio, Dimensions } from "react-native";
+import { PixelRatio, Dimensions } from "react-native";
 import theme from "./theme";
 const { width } = Dimensions.get("window");
 

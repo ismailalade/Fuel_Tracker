@@ -1,4 +1,4 @@
-ximport React, { ReactElement, useCallback, useEffect, useState } from "react";
+import React, { ReactElement, useCallback, useEffect, useState } from "react";
 import { AsyncStorage } from "react-native";
 import AppLoading from 'expo-app-loading'
 import { Asset } from "expo-asset";

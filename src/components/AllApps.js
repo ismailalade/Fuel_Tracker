@@ -1,4 +1,4 @@
-ximport React from "react";
+import React from "react";
 import { StatusBar } from "expo-status-bar";
 import { createStackNavigator } from "@react-navigation/stack";
 import theme, { Box, Text } from "./theme";

@@ -1,4 +1,4 @@
-ximport { createText, createBox } from "@shopify/restyle";
+import { createText, createBox } from "@shopify/restyle";
 import { moderateScale } from "react-native-size-matters";
 
 const theme = {
