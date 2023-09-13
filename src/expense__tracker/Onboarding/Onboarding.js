@@ -1,4 +1,4 @@
-import React, { useEffect } from "react";
+ximport React, { useEffect } from "react";
 import { Dimensions, View, ImageBackground, StyleSheet } from "react-native";
 import Animated from "react-native-reanimated";
 import {} from "react-native-redash";
