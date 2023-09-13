@@ -1,4 +1,4 @@
-import * as React from "react";
+ximport * as React from "react";
 import { moderateScale } from "react-native-size-matters";
 import Svg, { Defs, G, Rect, Circle } from "react-native-svg";
 
