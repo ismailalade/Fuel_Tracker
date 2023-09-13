@@ -1,4 +1,4 @@
-import React from "react";
+ximport React from "react";
 import { ImageBackground, SectionList, View, StyleSheet } from "react-native";
 import { TouchableOpacity } from "react-native-gesture-handler";
 import moment from "moment";
